@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "475456550801",
+    "firebase_url": "https://argutes-learning-default-rtdb.firebaseio.com",
+    "project_id": "argutes-learning",
+    "storage_bucket": "argutes-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475456550801:android:309c30f4bf5264de4dcc30",
+        "android_client_info": {
+          "package_name": "com.example.api_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475456550801-08op14jbu3snrplmscmn1g4703s0375f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.api_testing",
+            "certificate_hash": "745f88ea3db58ec2acd46b8ddaa09512fd64c79e"
+          }
+        },
+        {
+          "client_id": "475456550801-8llcir5r4aur5k6qin6638ibcql6n2kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqhfW3jANYhpLh6ILrWtmOzk51urHiZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475456550801-8llcir5r4aur5k6qin6638ibcql6n2kk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475456550801-1fi1oar6ngpf7lmmkm2dhsac2ph0dqsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arg.example"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475456550801:android:3dffe807e513a6df4dcc30",
+        "android_client_info": {
+          "package_name": "com.project.argutes_smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475456550801-sfn55ms0paag1choeha6q77ctt48qg49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.argutes_smart",
+            "certificate_hash": "2a6c894b93fabf6aaf366cbd2fedeac2e5bcc880"
+          }
+        },
+        {
+          "client_id": "475456550801-8llcir5r4aur5k6qin6638ibcql6n2kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqhfW3jANYhpLh6ILrWtmOzk51urHiZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475456550801-8llcir5r4aur5k6qin6638ibcql6n2kk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475456550801-1fi1oar6ngpf7lmmkm2dhsac2ph0dqsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arg.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
